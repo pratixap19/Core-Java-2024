@@ -9,6 +9,7 @@ public class CheckEvenOrOddNumber {
 		System.out.println("Enter number");
 		int num = sc.nextInt();
 		sc.close();
+		//logic for the program
 		if(num%2==0) {
 			System.out.println("It is even number");
 		}else {
